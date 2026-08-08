@@ -1,0 +1,21 @@
+house_id,city,bedrooms,area_sqft,price,year_built,status
+1,Hyderabad,2,1200,6500000.0,2020,Ready
+2,Vijayawada,3,1500,5200000.0,2019,Ready
+3,Visakhapatnam,2,1100,4500000.0,2021,Ready
+4,Hyderabad,3,1800,8500000.0,2018,Ready
+5,Guntur,2,1000,6500000.0,2020,Ready
+6,Vijayawada,3,1300,4800000.0,2017,Ready
+7,Hyderabad,4,2200,12000000.0,2016,Ready
+8,Visakhapatnam,3,1600,7200000.0,2022,Under Construction
+9,Guntur,2,950,3500000.0,2019,Ready
+10,Hyderabad,3,1750,8200000.0,2020,Ready
+11,Vijayawada,2,1250,5000000.0,2018,Ready
+12,Visakhapatnam,3,1450,6800000.0,2020,Ready
+13,Guntur,2,1050,3900000.0,2021,Ready
+14,Hyderabad,5,3000,15000000.0,2015,Ready
+15,Vijayawada,3,1550,5600000.0,2020,Ready
+16,Hyderabad,3,1900,9000000.0,2019,Ready
+17,Guntur,2,1500,4000000.0,2020,Ready
+18,Visakhapatnam,3,1700,7500000.0,2023,Ready
+19,Hyderabad,4,2100,11000000.0,2021,Ready
+20,Vijayawada,2,1150,4600000.0,2019,Ready
